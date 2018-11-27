@@ -1,0 +1,6 @@
+http://rfanat.qrz.ru/s19/ardu-sv2pl.html - соединение двух Ардуин по ЮАРТу и по беспроводной
+https://twilio.com/docs/sms/tutorials/server-notifications-java-spark - SMS in Java
+https://arduinoplus.ru/delaem-vesi-arduino/ - Норм весы
+http://mypractic.ru/urok-59-obedinenie-neskolkix-plat-arduino-v-lokalnuyu-set-
+s-topologiej-obshhaya-shina-preobrazovanie-uart-v-posledovatelnyj-interfejs-s-odnoj-
+signalnoj-liniej.html - соединение нескольких ардуин по МодБасу
